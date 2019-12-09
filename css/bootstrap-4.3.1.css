@@ -659,7 +659,7 @@ pre code {
 .col-5 {
     -ms-flex: 0 0 41.666667%;
     flex: 0 0 41.666667%;
-    max-width: 100%;
+    max-width: 60%;
     float: left;
     text-align: left;
     text-decoration: none;
